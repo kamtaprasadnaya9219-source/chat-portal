@@ -1,0 +1,4 @@
+chat_data.json
+.secret_key
+*.backup
+__pycache__/
